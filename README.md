@@ -71,9 +71,9 @@ Whether you are an enterprise spatial computing architect, AR/VR game developer,
 
 ## 🔓 Open-Source XR Software & Hardware Projects
 
-The open-source mixed reality ecosystem is expanding rapidly across open game engines, open-source wireless streaming, spatial runtime layers, open hardware BCIs, and Linux VR display managers. Below are key open-source repositories sorted by GitHub stars: ✨
+The open-source mixed reality ecosystem is expanding rapidly across open game engines, open-source wireless streaming, spatial runtime layers, open hardware BCIs, and Linux VR display managers. Below are key open-source repositories sorted by GitHub_Stars: ✨
 
-| Project / Repo 📁 | Description 📝 | Stars 🌟 | License 📜 |
+| Project / Repo 📁 | Description 📝 | GitHub_Stars 🌟 | License 📜 |
 |-------------------|-------------|----------|------------|
 | **[Godot Engine](https://github.com/godotengine/godot)** | **Open-source multi-platform 2D/3D game engine with built-in XR support.** Official Microsoft GDK & OpenXR integration enables cross-platform XR development. 🎮 | [<img src="https://img.shields.io/github/stars/godotengine/godot?style=social&color=white" alt="Godot Stars"/>](https://github.com/godotengine/godot/stargazers) | **MIT** |
 | **[ALVR](https://github.com/alvr-org/ALVR)** | **Open-source remote VR display streamer.** Stream VR games from PC to standalone headsets (Meta Quest, Pico, Apple Vision Pro) via Wi-Fi with low latency. 📡 | [<img src="https://img.shields.io/github/stars/alvr-org/ALVR?style=social&color=white" alt="ALVR Stars"/>](https://github.com/alvr-org/ALVR/stargazers) | **MIT** |
@@ -93,7 +93,7 @@ Contributions are warmly welcomed! Help keep this spatial computing and mixed re
 
 1. **Fork** this repository.
 2. **Add/Edit** entries in `README.md` following the table formats.
-3. Ensure entries include: hardware/software name, verified documentation URL, 1-2 sentence description, updated pricing tier or star count, and license type.
+3. Ensure entries include: hardware/software name, verified documentation URL, 1-2 sentence description, updated pricing tier or Stars_Count, and license type.
 4. **Submit a Pull Request (PR)** with a clear title describing your addition.
 
 ---
